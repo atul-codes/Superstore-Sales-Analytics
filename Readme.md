@@ -1,6 +1,6 @@
 # Superstore Sales Analytics
 
-This repository contains an end-to-end data analysis project utilizing Microsoft Excel to clean, explore, and visualize sales data for a US-based retail company. The project investigates growth quality, regional performance, and product profitability to provide actionable business recommendations.
+This repository serves as a flagship demonstration of end-to-end retail analytics. It represents a best-in-class approach to Excel-based data modeling, transforming raw, multi-year datasets into interactive executive dashboards and actionable business intelligence
 
 ## Project Visuals & Dashboards
 
