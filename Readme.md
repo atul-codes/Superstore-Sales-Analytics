@@ -4,9 +4,9 @@ This repository contains an end-to-end data analysis project utilizing Microsoft
 
 ## Project Visuals & Dashboards
 
-[Dashboard.png]
+![Main Dashboard](Dashboard.png)
 
-[Dashboard II.png]
+![Secondary Dashboard](Dashboard%20II.png)
 
 ## Business Problem
 
@@ -26,7 +26,7 @@ A US retailer of furniture, office supplies, and technology experienced signific
 
 ## Data Cleaning & Transformation
 
-To ensure analytical accuracy, the raw dataset (initially 5,901 rows and 23 columns) underwent rigorous cleaning and structural formatting. For full documentation on the cleaning process, anomaly handling, and data dictionaries, please refer to the included [Data Notes PDF](https://www.google.com/search?q=Data%2520Notes.pdf)[cite: 1].
+To ensure analytical accuracy, the raw dataset (initially 5,901 rows and 23 columns) underwent rigorous cleaning and structural formatting. For full documentation on the cleaning process, anomaly handling, and data dictionaries.
 
 * **Structural Fixes:** Repaired corrupted headers (e.g., "Row ID+O6G3A1:R6") and removed entirely blank columns.
 * **Data Type Conversions:** Converted "Order Date" and "Ship Date" from text strings (DD-MM-YYYY) into true functional Excel dates.
@@ -36,7 +36,7 @@ To ensure analytical accuracy, the raw dataset (initially 5,901 rows and 23 colu
 
 ## Key Insights & Findings
 
-[Key Findings.png]
+![Key Findings Summary](Key%20Findings.png)
 
 ### 1. The "Growth Quality" Challenge
 
@@ -80,8 +80,4 @@ Volume does not equal profit. 10 out of the 49 states are currently operating at
 * **Advanced Analysis:** Cohort retention analysis, profit/loss geographic mapping, margin calculations.
 * **Reporting:** Executive dashboarding, data storytelling, and translating raw metrics into actionable business strategy.
 
----
 
-1. Do you need help formatting a brief, punchy LinkedIn post to introduce this specific README and drive recruiters to your repository?
-2. Are all of these image files currently stored in the root directory of your GitHub repository, or do we need to adjust the file paths to point to an "images" folder?
-3. Would you like to add a "How to Use" or "Installation" section so recruiters know exactly how to download and interact with the `.xlsx` file?
